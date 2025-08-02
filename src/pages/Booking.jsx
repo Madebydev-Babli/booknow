@@ -27,7 +27,7 @@ const Booking = () => {
           <input
             type="hidden"
             name="_next"
-            value="https://booknow.netlify.app/thank-you"
+            value="https://madebybabli-booknow.netlify.app/thank-you"
           />
 
           <div>
