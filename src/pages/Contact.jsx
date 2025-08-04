@@ -72,7 +72,7 @@ const Contact = () => {
           <input
             type="hidden"
             name="_next"
-            value="http://localhost:5173/thank-you"
+            value="http://madebybabli-booknow.netlify.app/thank-you"
           />
 
           <div>
